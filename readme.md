@@ -10,6 +10,8 @@ Kaggle : https://www.kaggle.com/
 
 Dacon : https://dacon.io/main
 
+도서관 정보나루 : https://www.data4library.kr/noticeV?cn=157
+
 <br>
 
 <br>
@@ -29,3 +31,10 @@ https://dacon.io/competitions/official/140472/overview/description
 https://dacon.io/competitions/official/235713/overview/description/
 
 <br>
+
+- (공모전) : 2021 도서관 빅데이터
+
+https://www.data4library.kr/noticeV?cn=157
+
+<br>
+
